@@ -1,0 +1,3 @@
+ls: no se puede acceder a Foo: No existe el archivo o el directorio
+Descargas:
+eclipse-cpp-luna-SR1-linux-gtk.tar.gz
